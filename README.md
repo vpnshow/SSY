@@ -6,21 +6,18 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/ssy) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-山水云(SSY) 的轻量与普通套餐采用**中转与直连节点**，Pro 与试用套餐标注**三网优化高端线路**，支持通用订阅。常规月付从 **¥15、100GB/月**起，另有轻量套餐、Pro 套餐、两款 100GB 不限时流量包，以及不可复购的 10GB 付费试用。
-
 > [!NOTE]
 > **30 秒看懂山水云(SSY)**
 >
-> - **常规月付**：琴 100GB/月、¥15/月；棋 200GB/月、¥25/月；书 500GB/月、¥50/月。
-> - **轻量套餐**：64GB/月年付 ¥88；128GB/月年付 ¥166；256GB/月季付 ¥75、年付 ¥240。
-> - **Pro 套餐**：琴 Pro 100GB/月、¥30/月；棋 Pro 200GB/月、¥60/月；书 Pro 500GB/月、¥150/月。
-> - **专属 8 折优惠码**：结算时输入 `eoht`，适用套餐与最终实付金额以结算页为准。
-> - **不限时流量**：梅兰与梅兰 Pro 均为总计 100GB，一次性价格分别为 ¥150、¥320，流量用完即止。
-> - **付费试用**：10GB 试用标价 ¥15，付款选项为月付，不能复购。
-> - **通用订阅**：可导入兼容的第三方客户端，具体协议与订阅格式以机场提供的链接为准。
+> [访问官网](https://eoht.net/serve/airport/ssy) · [查看套餐与优惠码](https://eoht.net/serve/airport/ssy#ssy-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/ssy#ssy-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/ssy#ssy-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/ssy#ssy-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：琴 ¥15/月、100GB/月；64GB/月轻量套餐年付 ¥88。
+> - **使用方式**：支持兼容客户端的通用订阅；另有 100GB 一次性不限时包及 Pro 档位。
+> - **付费试用**：10GB 标价 ¥15，付款选项为月付，不能复购。
+> - **专属优惠**：`eoht` 享 8 折，适用套餐与最终实付金额以结算页为准。
 >
+
+山水云(SSY) 的轻量与普通套餐采用**中转与直连节点**，Pro 与试用套餐标注**三网优化高端线路**，支持通用订阅。常规月付从 **¥15、100GB/月**起，另有轻量套餐、Pro 套餐、两款 100GB 不限时流量包，以及不可复购的 10GB 付费试用。
 
 <a id="ssy-official-website"></a>
 
